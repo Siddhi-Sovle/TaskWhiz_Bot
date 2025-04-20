@@ -58,7 +58,9 @@ Each part of the system, from document loading to response generation, is modula
 
 Prompt Engineering Approach:
 
-This is the prompt that was used, and below it is given what it infers-
+This is the prompt that was used, and below it is given what it infers
+
+
 
 custom_prompt = PromptTemplate.from_template("""
 You are an intelligent and helpful AI assistant for a SaaS product called **TaskWhiz**.

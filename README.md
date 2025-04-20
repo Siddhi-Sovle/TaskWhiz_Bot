@@ -1,5 +1,7 @@
 # TaskWhiz - The Smart Project & Task Management Chatbot
 
+Here's the colab link : https://colab.research.google.com/drive/1CVy7SVPOdCmIT8FoHQyhoCf_VqAaaqc9?usp=sharing
+
 TaskWhiz, an AI-powered chatbot assistant designed to help users with all things related to TaskWhiz, the SaaS project management platform. TaskWhiz helps teams organize, manage, and track their projects, tasks, and collaboration efforts, all in one place. This platform's goal is to reduce repetitive support requests and help users get quick answers to their questions!
 
 Key Features:

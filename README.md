@@ -34,14 +34,19 @@ System Architecture:
 
 Document Loading:
 We use DirectoryLoader from langchain_community to load .md or .txt files containing the product knowledge from a ZIP archive. The documents are then split into chunks using RecursiveCharacterTextSplitter for efficient retrieval.
+
 Embedding & Vector Store:
 We use HuggingFaceEmbeddings with the MiniLM model to convert the product knowledge into embeddings. Chroma is used to store the embeddings and provide efficient retrieval using nearest-neighbor search.
+
 Retriever & Reranking:
 A ContextualCompressionRetriever is employed to compress the retrieved documents and improve response accuracy. Cohere's rerank model is used for context-aware reranking of the top results.
+
 LLM for Response Generation:
 Google's FLAN-T5 model is used to generate answers based on the context and chat history. A custom PromptTemplate ensures that the generated answers are clear, accurate, and concise.
+
 Memory:
 The chatbot uses ConversationBufferWindowMemory to store the last 3 exchanges, enabling context retention for follow-up questions.
+
 Fallback Mechanism: 
 If the response is uncertain or too vague, a fallback message is triggered to guide the user for clarification.
 

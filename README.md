@@ -91,18 +91,15 @@ Answer:
 ---
 
 
-## 🤖 How the Chatbot Works
 
 
-![image](https://github.com/user-attachments/assets/97e50d6b-f969-433a-a685-64d30ca41e02)
-![image](https://github.com/user-attachments/assets/ddfed3f7-f27e-4734-ae09-f139ef9e4304)
-
+![Screenshot 2025-07-06 113504](https://github.com/user-attachments/assets/52c61800-2cab-46d9-880e-9ab704e99ad2)
 
 
 
 
 
-
+![Screenshot 2025-07-06 113430](https://github.com/user-attachments/assets/17302dea-2524-45b0-a648-8c8842ebf7a0)
 
 
 

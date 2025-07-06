@@ -93,15 +93,6 @@ Answer:
 
 
 
-![Screenshot 2025-07-06 113504](https://github.com/user-attachments/assets/52c61800-2cab-46d9-880e-9ab704e99ad2)
-
-
-
-
-
-![Screenshot 2025-07-06 113430](https://github.com/user-attachments/assets/17302dea-2524-45b0-a648-8c8842ebf7a0)
-
-
 
 
 
